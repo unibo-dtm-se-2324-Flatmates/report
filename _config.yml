@@ -1,7 +1,7 @@
-title: Project work template
-description: A starter template for Software Engineering project work!
+title: Flatmates
+description: Flatmates report for the project of Software Engineering.
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 search_enabled: true
 plugins:
   - jekyll-remote-theme
