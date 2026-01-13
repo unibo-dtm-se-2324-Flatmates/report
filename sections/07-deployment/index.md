@@ -41,7 +41,7 @@ Follow these steps to deploy the application on a local machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/unibo-dtm-se-2425-Flatmates/artifact.
+git clone https://github.com/unibo-dtm-se-2324-Flatmates/artifact.
 ```
 
 ### Step 2: Setup Virtual Environment
