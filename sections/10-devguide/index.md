@@ -10,7 +10,7 @@ This section is intended for developers who wish to contribute to the **Flatmate
 
 ## 1.1 Repository
 
-https://github.com/unibo-dtm-se-2425-Flatmates/artifact
+https://github.com/unibo-dtm-se-2324-Flatmates/artifact
 
 ## 1.2 Issue Reporting
 
@@ -113,7 +113,7 @@ artifact/
 
 #### 3.2.1 Clone the repository:
 ```bash
-git clone https://github.com/unibo-dtm-se-2425-Flatmates/artifact
+git clone https://github.com/unibo-dtm-se-2324-Flatmates/artifact
 ```
 
 #### 3.2.2 Create a virtual environment:

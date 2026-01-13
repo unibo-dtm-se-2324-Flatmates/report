@@ -60,6 +60,6 @@ The Apache 2.0 license was selected for its balance of permissiveness and legal 
 
 ## Where to Access
 
-- **Source Code:** Available publicly on GitHub at https://github.com/unibo-dtm-se-2425-Flatmates/artifact.
+- **Source Code:** Available publicly on GitHub at https://github.com/unibo-dtm-se-2324-Flatmates/artifact.
 - **Live Demo:** The frontend is deployed and accessible via Streamlit Community Cloud (linked in the repository README).
 - **API Documentation:** Auto-generated Swagger UI is available at the /docs endpoint of the running backend instance.
