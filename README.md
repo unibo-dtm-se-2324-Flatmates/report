@@ -1,6 +1,6 @@
 # Flatmates - Project Report
 
-Welcome to the documentation repository for **Flatmates**, a comprehensive web application designed to simplify shared living. This project was developed for the **Software Engineering** course at the **University of Bologna**, A.Y. 2024/2025.
+Welcome to the documentation repository for **Flatmates**, a comprehensive web application designed to simplify shared living. This project was developed for the **Software Engineering** course at the **University of Bologna**, A.Y. 2023/2024.
 
 ## 👥 Authors
 
